@@ -1,1 +1,1 @@
-# An-Introduction-to-Interactive-Programming-in-Python
+# Homework for the course Interactive programming in Python
